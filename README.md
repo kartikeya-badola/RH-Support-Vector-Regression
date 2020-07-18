@@ -20,4 +20,4 @@ RH-SVR with polynomial kernel (degree 3)
 
 ![lstat rbf](https://github.com/kartikeya-badola/RH-Support-Vector-Regression/blob/master/lstat%20rbf.png)
 
-RH-SVR with radial basis kernel (gamma 5)
+RH-SVR with radial basis kernel (sigma 5)
